@@ -6,7 +6,7 @@ import psutil
 import datetime
 import os
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8725316740:AAExIlgkDYgAM5fAKHwHl5LSCdKW3M8d4sk")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "8600343127")
+ADMIN_ID = int(os.getenv("ADMIN_ID", "8600343127"))
 ()
 OWNER_USERNAME = "@KRUTIKCYBER_DEVELOPER_4"
 BRAND_NAME = "KRUTIK CYBER DEVELOPER"
